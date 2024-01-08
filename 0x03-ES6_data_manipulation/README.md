@@ -1,5 +1,5 @@
 <h1>0x03. ES6 data manipulation</h1>
 <h2>Learning Objectives :memo: :</h2>
-- How to use map, filter and reduce on arrays
-- Typed arrays
+- How to use map, filter and reduce on arrays<br>
+- Typed arrays<br>
 - The Set, Map, and Weak link data structures
